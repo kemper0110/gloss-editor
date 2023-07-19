@@ -1,0 +1,12 @@
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  background-color: #aaa;
+}
+.sidebar__element {
+  padding: 5px;
+  aspect-ratio: 1/1;
+}
+
+/*# sourceMappingURL=sidebar.css.map */

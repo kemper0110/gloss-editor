@@ -1,0 +1,11 @@
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  background-color: #aaa;
+
+  &__element {
+    padding: 5px;
+    aspect-ratio: 1 / 1;
+  }
+}
